@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
-  <a href="https://github.com/J34993R">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J34993R&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J34993R&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/guiAlvesDeOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiAlvesDeOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiAlvesDeOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   #
